@@ -32,7 +32,7 @@ I'm a **2nd-year Computer Science undergrad** at IGIT Sarang, passionate about b
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE** @ Indira Gandhi Institute of Technology, Sarang | CGPA: **9.87 / 10** *(Top of Class)*
+- 🎓 **B.Tech CSE** @ Indira Gandhi Institute of Technology, Sarang | CGPA: **9.87 / 10** 
 - 📱 **Android Developer** — Kotlin, Jetpack Compose, MVVM, Clean Architecture
 - ⚙️ **Backend Engineer** — NestJS, Node.js, Microservices, Docker, RabbitMQ
 - 🧠 **Core Member** @ Codex Crew — conducting system design workshops for 50+ developers
@@ -148,7 +148,7 @@ Focused on deepening my understanding of **distributed systems**, **event-driven
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nigam-prasad-sahoo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nigam-prasad-sahoo-b0768034a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsyncNigam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KgUsGBJMB2/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nigam.nps@gmail.com)
