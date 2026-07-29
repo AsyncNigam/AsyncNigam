@@ -2,89 +2,67 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=210&section=header&text=NIGAM%20PRASAD%20SAHOO&fontSize=44&fontColor=64FFDA&fontAlignY=38&desc=async%20engineer%20%E2%80%94%20never%20blocking%2C%20always%20composing&descAlignY=60&descSize=14&descColor=8892b0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Android+Engineer+%C2%B7+Backend+Architect+%C2%B7+Systems+Thinker;Post-Quantum+Crypto+%C2%B7+Clean+Architecture+%C2%B7+Microservices;Coroutines+in+code%2C+parallel+tracks+in+life;Always+non-blocking+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Backend+Engineer+%C2%B7+Distributed+Systems+%C2%B7+Systems+Thinker;Event-Driven+Microservices+%C2%B7+Zero-Knowledge+Design;Queues+in+code%2C+parallel+tracks+in+life;Always+non-blocking+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```kotlin
-// ⚡ PROCESS MONITOR ─── PID: 001 ─── STATUS: 🟢 RUNNING ─── BLOCKING: 🔴 false
+```typescript
 
-object AsyncNigam : Engineer() {
-
-    // 🔵 ANDROID
-    val ui       = "Jetpack Compose · MVVM · Clean Architecture · Hilt · Coroutines"
-
-    // 🟡 BACKEND  
-    val systems  = "NestJS · Microservices · RabbitMQ · Redis · Docker · WebSockets"
-
-    // 🟣 SECURITY
-    val crypto   = "Post-Quantum (ML-KEM-768) · AES-256-GCM · Zero-Knowledge Design"
-
-    // 🟢 MINDSET
-    val wiredAs  = listOf("async by default", "clean by discipline", "curious by nature")
-    val obsessed = "How distributed systems fail at scale — and how to stop them"
-
-    // 🔴 EXCEPTION HANDLING
-    fun handle(c: Complexity) = c.decompose().solve().ship()
+class AsyncNigam extends Engineer {
+    systems  = "NestJS (Fastify) · Express.js · Socket.io · RabbitMQ · API Gateway";
+    stores   = "PostgreSQL · MySQL · MongoDB · Redis · Prisma · TypeORM · Supabase";
+    infra    = "Docker · MinIO (S3) · Linux · OpenTelemetry · GitHub Actions · Firebase";
+    crypto   = "Zero-Knowledge Relays · JWT (RS256) · SHA-256 Fingerprint Identity";
+    wiredAs  = ["async by default", "clean by discipline", "curious by nature"];
+    obsessed = "How distributed systems fail at scale — and how to stop them";
 }
 ```
 
 ---
 
-## ⚡ What I Bring
+## ⚡ Tech Frineds
 
 <div align="center">
 
-**Android**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt_DI-2C8EBB?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room_DB-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![WorkManager](https://img.shields.io/badge/WorkManager-0288D1?style=for-the-badge&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=android&logoColor=white)
-
-**Backend & Infrastructure**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Data & Tools**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO_(S3)-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 How I Think
+## 🧠 My Ideology
 
 ```
-Mobile ──────────► I think in layers. data / domain / presentation.
-                   Every screen is a state machine. Every leak is a lifecycle mistake.
-
-Backend ─────────► I think in contracts. Services talk through queues, not calls.
-                   Latency is a feature. Consistency is a choice.
-
-Security ────────► I think in threat models. If the server can read it, it's a vulnerability.
-                   Zero-knowledge isn't a buzzword — it's a design constraint.
-
-Systems ─────────► I think in failure modes. What breaks at 10x load?
-                   How does it recover? What does "eventual consistency" actually mean here?
+I enjoy solving problems where reliability, scalability, and system design matter more than frameworks.
+I'm always interested in understanding not just how systems work, but why they fail.
 ```
 
 ---
@@ -92,10 +70,22 @@ Systems ─────────► I think in failure modes. What breaks at 
 ## 🔥 Things I've Shipped
 
 | | Project | What makes it real |
-|--|---------|-------------------|
-| 🔐 | [**Quantum Safe Messenger**](https://github.com/AsyncNigam/Quantum-safe-messenger) | Post-quantum encrypted (ML-KEM-768 via C++ JNI). Server-side message exposure: **zero** by math, not policy |
-| ✈️ | [**Flight Booking Backend**](https://github.com/AsyncNigam/Flight-Booking-Management-System) | 4-service microservices · `1000+ RPS` · `25% latency reduction` · `99.9% delivery reliability` |
-| 🧠 | [**NEXUS Productivity Suite**](https://github.com/AsyncNigam/nexus-by-nigam) | Gemini 2.0 Flash · offline-first · sub-200ms Firestore · 40% boilerplate cut |
+|--|---------|--------------------|
+| ⚙️ | [**LeetCAD — Event-Driven Microservices Assessment Engine**](https://github.com/AsyncNigam) | 4 services (API Gateway, Assessment Engine, Realtime Service, Outbox Poller) in a Turborepo monorepo · Transactional Outbox for atomic dual-writes · Claim-Check pattern for 5MB+ file uploads via presigned MinIO URLs · sandboxed OpenCASCADE geometry worker with DLQ recovery · Redis fencing tokens + Socket.io cross-instance broadcasts |
+| 🔐 | [**Quantum Safe Messenger — Zero-Knowledge Relay Infrastructure**](https://github.com/AsyncNigam/Quantum-safe-messenger) | Stateless relay, 7 REST + 4 WebSocket endpoints, routes opaque ciphertext only — zero plaintext, keys, or PII server-side · Redis TTL offline queuing cut infra cost ~60% vs Kafka/RabbitMQ · Silent FCM push pipeline leaks nothing · SHA-256 fingerprint identity, no OAuth/phone auth · ~50MB Alpine Docker image, live on Google Play Store |
+
+---
+
+## 💼 Experience
+
+```
+Software Engineering Intern @ Tech Squadrons (Remote)              Jan 2026 – Jun 2026
+├─ Built 3+ RESTful API services in Node.js/Express.js with Zod schema
+│  validation and centralized error middleware
+├─ Wrote Dockerfiles for local-to-staging parity
+└─ Designed normalized PostgreSQL schemas with indexed lookups;
+   zero-downtime migration scripts across Docker Compose environments
+```
 
 ---
 
@@ -110,35 +100,15 @@ Systems ─────────► I think in failure modes. What breaks at 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/KgUsGBJMB2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode_%2B_GFG-250%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AsyncNigam143/)
 &nbsp;·&nbsp;
-![Focus](https://img.shields.io/badge/Tracks-Blind_75_%7C_LLD-64FFDA?style=flat-square)
+![Focus](https://img.shields.io/badge/Tracks-DP_%7C_Trees_%7C_Graphs-64FFDA?style=flat-square)
 &nbsp;·&nbsp;
 ![GPA](https://img.shields.io/badge/GPA-9.87%20%2F%2010-64FFDA?style=flat-square)
 
 </div>
 
----
-
-## 🌱 Currently Running
-
-```
-coroutineScope {
-    launch { study("Advanced System Design")    }  // 75% ████████████░░░
-    launch { study("Distributed Systems")       }  // 62% ██████████░░░░░
-    launch { study("gRPC & Service Mesh")       }  // 50% ████████░░░░░░░
-    launch { study("Backend Security Patterns") }  // 40% ██████░░░░░░░░░
-}
-// Non-blocking. All in parallel. Obviously.
-```
-
----
-
-## 🤝 Off the Keyboard
-
-- 🧑‍🏫 **Codex Crew** — mentoring **50+ devs** on system design, microservices & Android across semesters
-- 🌐 **GDG IGIT** — organising Compose, Hilt DI & Modern Android Development events
-- 🏆 **HackNITR 7.0** — solo-shipped a functional Android MVP in 24 hours at NIT Rourkela
+- 🧩 **DSA** — 250+ problems solved across LeetCode & GFG, focused on dynamic programming, trees, and graph algorithms
 
 ---
 
@@ -146,7 +116,7 @@ coroutineScope {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nigam-prasad-sahoo-b0768034a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsyncNigam)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KgUsGBJMB2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AsyncNigam143/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nigam.nps@gmail.com)
 
 <br/>
