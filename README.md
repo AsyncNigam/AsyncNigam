@@ -71,7 +71,7 @@ I'm always interested in understanding not just how systems work, but why they f
 
 | | Project | What makes it real |
 |--|---------|--------------------|
-| ⚙️ | [**LeetCAD — Event-Driven Microservices Assessment Engine**](https://github.com/AsyncNigam) | 4 services (API Gateway, Assessment Engine, Realtime Service, Outbox Poller) in a Turborepo monorepo · Transactional Outbox for atomic dual-writes · Claim-Check pattern for 5MB+ file uploads via presigned MinIO URLs · sandboxed OpenCASCADE geometry worker with DLQ recovery · Redis fencing tokens + Socket.io cross-instance broadcasts |
+| ⚙️ | [**LeetCAD — Event-Driven Microservices Assessment Engine**](https://github.com/AsyncNigam/LeetCAD-Backend) | Architected an event-driven engine (3 microservices) in a Turborepo monorepo · Transactional Outbox for atomic dual-writes · Claim-Check pattern for 5MB+ file uploads via presigned MinIO URLs · sandboxed OpenCASCADE geometry worker with DLQ recovery · Redis fencing tokens + Socket.io cross-instance broadcasts |
 | 🔐 | [**Quantum Safe Messenger — Zero-Knowledge Relay Infrastructure**](https://github.com/AsyncNigam/Quantum-safe-messenger) | Stateless relay, 7 REST + 4 WebSocket endpoints, routes opaque ciphertext only — zero plaintext, keys, or PII server-side · Redis TTL offline queuing cut infra cost ~60% vs Kafka/RabbitMQ · Silent FCM push pipeline leaks nothing · SHA-256 fingerprint identity, no OAuth/phone auth · ~50MB Alpine Docker image, live on Google Play Store |
 
 ---
