@@ -104,7 +104,7 @@ Software Engineering Intern @ Tech Squadrons (Remote)              Jan 2026 – 
 &nbsp;·&nbsp;
 ![Focus](https://img.shields.io/badge/Tracks-DP_%7C_Trees_%7C_Graphs-64FFDA?style=flat-square)
 &nbsp;·&nbsp;
-![GPA](https://img.shields.io/badge/GPA-9.87%20%2F%2010-64FFDA?style=flat-square)
+![GPA](https://img.shields.io/badge/GPA-9.7%20%2F%2010-64FFDA?style=flat-square)
 
 </div>
 
