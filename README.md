@@ -123,7 +123,4 @@ Software Engineering Intern @ Tech Squadrons (Remote)              Jan 2026 – 
 
 > *"First, solve the problem. Then, write the code."*
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
-
 </div>
