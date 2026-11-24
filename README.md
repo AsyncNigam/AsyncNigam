@@ -38,5 +38,5 @@ Currently building backend services in Node.js, NestJS, and TypeScript, with a f
 ### Background
 
 - **Experience:** Software Engineering Intern @ Tech Squadrons (Jun 2026 – Aug 2026)
-- **Problem Solving:** 400+ algorithmic problems solved and 1700+ contest rating on LeetCode
+- **Problem Solving:** 400+ algorithmic problems solved and 1800+ contest rating on LeetCode
 - **Academics:** B.Tech in CSE at Indira Gandhi Institute Of Technology (2024–2028, GPA: 9.70/10.0)
