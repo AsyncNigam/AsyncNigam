@@ -1,6 +1,6 @@
 # Nigam Prasad Sahoo
 
-Backend Software Engineer focused on distributed systems, event-driven architectures, and high-reliability APIs. 
+Backend Software Engineer focused on distributed systems, event-driven architectures, and high-reliability APIs.
 
 Currently building backend services in Node.js, NestJS, and TypeScript, with a focus on fault isolation, transactional data pipelines, and zero-knowledge systems.
 
@@ -11,14 +11,14 @@ Currently building backend services in Node.js, NestJS, and TypeScript, with a f
 ### Core Focus & Systems
 
 - **LeetCAD — Event-Driven CAD Assessment Engine**  
-  NestJS, RabbitMQ, PostgreSQL, Redis, Cloudflare R2, Socket.io, Azure  
+  *NestJS, RabbitMQ, PostgreSQL, Redis, Cloudflare R2, Socket.io, Azure*
   - Reliable event delivery to RabbitMQ via PostgreSQL Transactional Outbox pattern (`SKIP LOCKED` polling).
   - Claim-Check pattern for 50MB CAD uploads using presigned R2 URLs to keep API memory footprint flat.
   - Sandboxed C++ OpenCASCADE evaluations inside Python worker subprocesses with 30s timeouts to isolate `SIGSEGV` faults from the main daemon.
   - Cross-service tracing instrumented via OpenTelemetry; duplicate task runs prevented with Redis fencing tokens.
 
 - **Quantum Safe Messenger — Zero-Knowledge Relay Infrastructure**  
-  Node.js, Express, Socket.io, Redis, PostgreSQL, Docker  
+  *Node.js, Express, Socket.io, Redis, PostgreSQL, Docker*
   - Stateless relay infrastructure ensuring zero server access to plaintext or cryptographic private keys.
   - Hybrid post-quantum key exchange (ML-KEM-768) and AES-256-GCM symmetric encryption with Ed25519/ML-DSA signatures.
   - Ephemeral message delivery via Redis TTL queues and metadata-only push triggers via Firebase Cloud Messaging.
@@ -38,5 +38,6 @@ Currently building backend services in Node.js, NestJS, and TypeScript, with a f
 ### Background
 
 - **Experience:** Software Engineering Intern @ Tech Squadrons (Jun 2026 – Aug 2026)
-- **Problem Solving:** 400+ algorithmic problems solved and 1800+ contest rating on LeetCode
-- **Academics:** B.Tech in CSE at Indira Gandhi Institute Of Technology (2024–2028, GPA: 9.70/10.0)
+- **Problem Solving:** LeetCode Knight (1865 contest rating, Top 5%) with 400+ algorithmic problems solved
+- **Open Source:** Contributed to [Compiler Explorer](https://github.com/compiler-explorer/compiler-explorer)
+- **Academics:** B.Tech in CSE at Indira Gandhi Institute of Technology (2024–2028, GPA: 9.70/10.0)
